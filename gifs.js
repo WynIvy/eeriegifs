@@ -509,6 +509,11 @@ const gifDatabase = [
         tags: ['humans', 'funny'],
         alt: 'WHY'
     },
+    {
+        src: '.gifs/LoveYaGays.gif',
+        tags: ['humans', 'funny'],
+        alt: 'love ya gays'
+    },
 ];
 
 let currentGifIndex = 0;
