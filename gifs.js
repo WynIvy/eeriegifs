@@ -7,12 +7,12 @@ const gifDatabase = [
     {
         src: './gifs/Leoin5ft6.gif',
         tags: ['astrology', 'funny'],
-        alt: 'Leo Pokemon GIF'
+        alt: 'Leo'
     },
     {
         src: './gifs/Ratss.gif',
         tags: ['animals', 'funny'],
-        alt: 'Rats Pokemon GIF'
+        alt: 'Rats'
     },
     {
         src: './gifs/RUN.gif',
@@ -31,37 +31,37 @@ const gifDatabase = [
     },
     {
         src: './gifs/Pokemon/1.gif',
-        tags: ['Pokemon', 'games'],
+        tags: ['pokemon', 'games'],
         alt: 'Eerie character with a weezing'
     },
     {
         src: './gifs/Pokemon/2HAI.gif',
-        tags: ['Pokemon', 'games'],
+        tags: ['pokemon', 'games'],
         alt: 'Two sudowoodos'
     },
     {
         src: './gifs/Pokemon/1313.gif',
-        tags: ['Pokemon', 'games', 'cartoons'],
+        tags: ['pokemon', 'games', 'cartoons'],
         alt: 'Blassing for shinnies'
     },
     {
         src: './gifs/Pokemon/3213.gif',
-        tags: ['Pokemon', 'games'],
+        tags: ['pokemon', 'games'],
         alt: 'Meerie christmas'
     },
     {
         src: './gifs/Pokemon/AlphaCatching.gif',
-        tags: ['Pokemon', 'cartoons'],
+        tags: ['pokemon', 'cartoons'],
         alt: 'Pokemon breaks out of ball'
     },
     {
         src: './gifs/Pokemon/AlphasPart2.gif',
-        tags: ['Pokemon', 'cartoons'],
+        tags: ['pokemon', 'cartoons'],
         alt: 'Gengar wont get caught'
     },
     {
         src: './gifs/Pokemon/AmorFati.gif',
-        tags: ['Pokemon', 'games'],
+        tags: ['pokemon', 'games'],
         alt: 'Luigi seed'
     },
     {
@@ -71,47 +71,47 @@ const gifDatabase = [
     },
     {
         src: './gifs/Pokemon/EMF2.gif',
-        tags: ['cartoons', 'funny', 'Pokemon', 'dark'],
+        tags: ['cartoons', 'funny', 'pokemon', 'dark'],
         alt: 'ahhhh'
     },
     {
         src: './gifs/Pokemon/fallingasleep.gif',
-        tags: ['cartoons', 'Pokemon'],
+        tags: ['cartoons', 'pokemon'],
         alt: 'ur falling asleep'
     },
     {
         src: './gifs/Pokemon/bidoof.gif',
-        tags: ['cartoons', 'Pokemon'],
+        tags: ['cartoons', 'pokemon'],
         alt: 'bidoof'
     },
     {
         src: './gifs/Pokemon/spinda.gif',
-        tags: ['cartoons', 'Pokemon'],
+        tags: ['cartoons', 'pokemon'],
         alt: 'spinda with a flower'
     },
     {
         src: './gifs/Pokemon/funnybidoof.gif',
-        tags: ['cartoons', 'funny', 'Pokemon'],
+        tags: ['cartoons', 'funny', 'pokemon'],
         alt: 'scared bidoof'
     },
     {
         src: './gifs/Pokemon/zor.gif',
-        tags: ['cartoons', 'Pokemon'],
+        tags: ['cartoons', 'pokemon'],
         alt: 'scared bidoof'
     },
     {
         src: './gifs/Pokemon/tshark.gif',
-        tags: ['cartoons', 'Pokemon'],
+        tags: ['cartoons', 'pokemon'],
         alt: 'lil guy'
     },
     {
         src: './gifs/Pokemon/tbidoofs.gif',
-        tags: ['cartoons', 'Pokemon'],
+        tags: ['cartoons', 'pokemon'],
         alt: 'scared bidoof'
     },
     {
         src: './gifs/Pokemon/gassy.gif',
-        tags: ['cartoons', 'funny', 'Pokemon'],
+        tags: ['cartoons', 'funny', 'pokemon'],
         alt: 'gassy gastrodon'
     },
     {
@@ -120,7 +120,7 @@ const gifDatabase = [
         alt: 'wtf'
     },
     {
-        src: './gifs/3wtf.gif',
+        src: './gifs/3WTF.gif',
         tags: ['humans', 'funny', 'dark'],
         alt: 'wtf'
     },
@@ -175,7 +175,7 @@ const gifDatabase = [
         alt: 'an angel'
     },
     {
-        src: './gifs/Bojack-horseman-worried.gif',
+        src: './gifs/bojack-horseman-worried.gif',
         tags: ['dark', 'cartoons'],
         alt: 'sad bojack'
     },
@@ -280,7 +280,7 @@ const gifDatabase = [
         alt: 'eating'
     },
     {
-        src: './gifs/Goddamninternet.gif',
+        src: './gifs/GoddamnInternet.gif',
         tags: ['funny', 'humans'],
         alt: 'goddamn internet'
     },
@@ -301,7 +301,7 @@ const gifDatabase = [
     },
     {
         src: './gifs/Heartbreak.gif',
-        tags: ['dark', 'cartoons', 'Pokemon'],
+        tags: ['dark', 'cartoons', 'pokemon'],
         alt: 'poor guy :('
     },
     {
@@ -310,7 +310,7 @@ const gifDatabase = [
         alt: 'helpppp'
     },
     {
-        src: './gifs/intotheabyss.gif',
+        src: './gifs/Intotheabyss.gif',
         tags: ['funny', 'humans'],
         alt: 'into the abyss'
     },
@@ -451,7 +451,7 @@ const gifDatabase = [
     },
     {
         src: './gifs/Shunting.gif',
-        tags: ['animals', 'Pokemon'],
+        tags: ['animals', 'pokemon'],
         alt: 'wheres the shiny'
     },
     {
