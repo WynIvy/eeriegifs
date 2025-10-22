@@ -510,7 +510,7 @@ const gifDatabase = [
         alt: 'WHY'
     },
     {
-        src: '.gifs/LoveYaGays.gif',
+        src: './gifs/LoveYaGays.gif',
         tags: ['humans', 'funny'],
         alt: 'love ya gays'
     },
