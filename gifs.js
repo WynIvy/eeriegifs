@@ -30,87 +30,87 @@ const gifDatabase = [
         alt: 'Winking GIF'
     },
     {
-        src: '../gifs/Pokemon/1.gif',
+        src: './gifs/Pokemon/1.gif',
         tags: ['Pokemon', 'games'],
         alt: 'Eerie character with a weezing'
     },
     {
-        src: '../gifs/Pokemon/2HAI.gif',
+        src: './gifs/Pokemon/2HAI.gif',
         tags: ['Pokemon', 'games'],
         alt: 'Two sudowoodos'
     },
     {
-        src: '../gifs/Pokemon/1313.gif',
+        src: './gifs/Pokemon/1313.gif',
         tags: ['Pokemon', 'games', 'cartoons'],
         alt: 'Blassing for shinnies'
     },
     {
-        src: '../gifs/Pokemon/3213.gif',
+        src: './gifs/Pokemon/3213.gif',
         tags: ['Pokemon', 'games'],
         alt: 'Meerie christmas'
     },
     {
-        src: '../gifs/Pokemon/AlphaCatching.gif',
+        src: './gifs/Pokemon/AlphaCatching.gif',
         tags: ['Pokemon', 'cartoons'],
         alt: 'Pokemon breaks out of ball'
     },
     {
-        src: '../gifs/Pokemon/AlphasPart2.gif',
+        src: './gifs/Pokemon/AlphasPart2.gif',
         tags: ['Pokemon', 'cartoons'],
         alt: 'Gengar wont get caught'
     },
     {
-        src: '../gifs/Pokemon/AmorFati.gif',
+        src: './gifs/Pokemon/AmorFati.gif',
         tags: ['Pokemon', 'games'],
         alt: 'Luigi seed'
     },
     {
-        src: '../gifs/Pokemon/ded.gif',
+        src: './gifs/Pokemon/ded.gif',
         tags: ['cartoons', 'funny'],
         alt: 'Family guy freak out'
     },
     {
-        src: '../gifs/Pokemon/EMF2.gif',
+        src: './gifs/Pokemon/EMF2.gif',
         tags: ['cartoons', 'funny', 'Pokemon', 'dark'],
         alt: 'ahhhh'
     },
     {
-        src: '../gifs/Pokemon/fallingasleep.gif',
+        src: './gifs/Pokemon/fallingasleep.gif',
         tags: ['cartoons', 'Pokemon'],
         alt: 'ur falling asleep'
     },
     {
-        src: '../gifs/Pokemon/bidoof.gif',
+        src: './gifs/Pokemon/bidoof.gif',
         tags: ['cartoons', 'Pokemon'],
         alt: 'bidoof'
     },
     {
-        src: '../gifs/Pokemon/spinda.gif',
+        src: './gifs/Pokemon/spinda.gif',
         tags: ['cartoons', 'Pokemon'],
         alt: 'spinda with a flower'
     },
     {
-        src: '../gifs/Pokemon/funnybidoof.gif',
+        src: './gifs/Pokemon/funnybidoof.gif',
         tags: ['cartoons', 'funny', 'Pokemon'],
         alt: 'scared bidoof'
     },
     {
-        src: '../gifs/Pokemon/zor.gif',
+        src: './gifs/Pokemon/zor.gif',
         tags: ['cartoons', 'Pokemon'],
         alt: 'scared bidoof'
     },
     {
-        src: '../gifs/Pokemon/tshark.gif',
+        src: './gifs/Pokemon/tshark.gif',
         tags: ['cartoons', 'Pokemon'],
         alt: 'lil guy'
     },
     {
-        src: '../gifs/Pokemon/tbidoofs.gif',
+        src: './gifs/Pokemon/tbidoofs.gif',
         tags: ['cartoons', 'Pokemon'],
         alt: 'scared bidoof'
     },
     {
-        src: '../gifs/Pokemon/gassy.gif',
+        src: './gifs/Pokemon/gassy.gif',
         tags: ['cartoons', 'funny', 'Pokemon'],
         alt: 'gassy gastrodon'
     },
