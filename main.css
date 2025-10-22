@@ -293,7 +293,7 @@ body {
     }
     
     .nav a {
-        font-size: 2.8em;
+        font-size: 1.5em;
     }
 }
 
@@ -316,7 +316,7 @@ body {
     }
     
     .nav a {
-        font-size: 2.5em;
+        font-size: 1.5em;
         margin: 0 12px;
     }
     
@@ -357,7 +357,7 @@ body {
     }
     
     .nav a {
-        font-size: 2em;
+        font-size: 1.2em;
         margin: 0 8px;
         display: inline-block;
     }
@@ -411,7 +411,7 @@ body {
     }
     
     .nav a {
-        font-size: 1.6em;
+        font-size: 1.1em;
         margin: 0 6px;
     }
     
@@ -442,7 +442,7 @@ body {
     }
     
     .nav a {
-        font-size: 1.4em;
+        font-size: 1em;
         margin: 0 4px;
     }
     
