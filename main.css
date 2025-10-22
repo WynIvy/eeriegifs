@@ -75,6 +75,19 @@ body {
     font-family: monospace, sans-serif;
     font-style: bold;
 }
+#changing {
+    width: auto;
+    height: auto;
+    max-width: 80%;
+    display: block;
+    margin: 0 auto;
+}
+
+.banner {
+    margin: 5px auto;
+    width: 100%;
+    text-align: center;
+}
 
 .nav a {
     color: #830707;
