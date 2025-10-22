@@ -30,88 +30,88 @@ const gifDatabase = [
         alt: 'Winking GIF'
     },
     {
-        src: '../gifs/pokemon/1.gif',
-        tags: ['pokemon', 'games'],
+        src: '../gifs/Pokemon/1.gif',
+        tags: ['Pokemon', 'games'],
         alt: 'Eerie character with a weezing'
     },
     {
-        src: '../gifs/pokemon/2HAI.gif',
-        tags: ['pokemon', 'games'],
+        src: '../gifs/Pokemon/2HAI.gif',
+        tags: ['Pokemon', 'games'],
         alt: 'Two sudowoodos'
     },
     {
-        src: '../gifs/pokemon/1313.gif',
-        tags: ['pokemon', 'games', 'cartoons'],
+        src: '../gifs/Pokemon/1313.gif',
+        tags: ['Pokemon', 'games', 'cartoons'],
         alt: 'Blassing for shinnies'
     },
     {
-        src: '../gifs/pokemon/3213.gif',
-        tags: ['pokemon', 'games'],
+        src: '../gifs/Pokemon/3213.gif',
+        tags: ['Pokemon', 'games'],
         alt: 'Meerie christmas'
     },
     {
-        src: '../gifs/pokemon/AlphaCatching.gif',
-        tags: ['pokemon', 'cartoons'],
+        src: '../gifs/Pokemon/AlphaCatching.gif',
+        tags: ['Pokemon', 'cartoons'],
         alt: 'Pokemon breaks out of ball'
     },
     {
-        src: '../gifs/pokemon/AlphasPart2.gif',
-        tags: ['pokemon', 'cartoons'],
+        src: '../gifs/Pokemon/AlphasPart2.gif',
+        tags: ['Pokemon', 'cartoons'],
         alt: 'Gengar wont get caught'
     },
     {
-        src: '../gifs/pokemon/AmorFati.gif',
-        tags: ['pokemon', 'games'],
+        src: '../gifs/Pokemon/AmorFati.gif',
+        tags: ['Pokemon', 'games'],
         alt: 'Luigi seed'
     },
     {
-        src: '../gifs/pokemon/ded.gif',
+        src: '../gifs/Pokemon/ded.gif',
         tags: ['cartoons', 'funny'],
         alt: 'Family guy freak out'
     },
     {
-        src: '../gifs/pokemon/EMF2.gif',
-        tags: ['cartoons', 'funny', 'pokemon', 'dark'],
+        src: '../gifs/Pokemon/EMF2.gif',
+        tags: ['cartoons', 'funny', 'Pokemon', 'dark'],
         alt: 'ahhhh'
     },
     {
-        src: '../gifs/pokemon/fallingasleep.gif',
-        tags: ['cartoons', 'pokemon'],
+        src: '../gifs/Pokemon/fallingasleep.gif',
+        tags: ['cartoons', 'Pokemon'],
         alt: 'ur falling asleep'
     },
     {
-        src: '../gifs/pokemon/bidoof.gif',
-        tags: ['cartoons', 'pokemon'],
+        src: '../gifs/Pokemon/bidoof.gif',
+        tags: ['cartoons', 'Pokemon'],
         alt: 'bidoof'
     },
     {
-        src: '../gifs/pokemon/spinda.gif',
-        tags: ['cartoons', 'pokemon'],
+        src: '../gifs/Pokemon/spinda.gif',
+        tags: ['cartoons', 'Pokemon'],
         alt: 'spinda with a flower'
     },
     {
-        src: '../gifs/pokemon/funnybidoof.gif',
-        tags: ['cartoons', 'funny', 'pokemon'],
+        src: '../gifs/Pokemon/funnybidoof.gif',
+        tags: ['cartoons', 'funny', 'Pokemon'],
         alt: 'scared bidoof'
     },
     {
-        src: '../gifs/pokemon/zor.gif',
-        tags: ['cartoons', 'pokemon'],
+        src: '../gifs/Pokemon/zor.gif',
+        tags: ['cartoons', 'Pokemon'],
         alt: 'scared bidoof'
     },
     {
-        src: '../gifs/pokemon/tshark.gif',
-        tags: ['cartoons', 'pokemon'],
+        src: '../gifs/Pokemon/tshark.gif',
+        tags: ['cartoons', 'Pokemon'],
         alt: 'lil guy'
     },
     {
-        src: '../gifs/pokemon/tbidoofs.gif',
-        tags: ['cartoons', 'pokemon'],
+        src: '../gifs/Pokemon/tbidoofs.gif',
+        tags: ['cartoons', 'Pokemon'],
         alt: 'scared bidoof'
     },
     {
-        src: '../gifs/pokemon/gassy.gif',
-        tags: ['cartoons', 'funny', 'pokemon'],
+        src: '../gifs/Pokemon/gassy.gif',
+        tags: ['cartoons', 'funny', 'Pokemon'],
         alt: 'gassy gastrodon'
     },
     {
@@ -301,7 +301,7 @@ const gifDatabase = [
     },
     {
         src: './gifs/Heartbreak.gif',
-        tags: ['dark', 'cartoons', 'pokemon'],
+        tags: ['dark', 'cartoons', 'Pokemon'],
         alt: 'poor guy :('
     },
     {
@@ -451,7 +451,7 @@ const gifDatabase = [
     },
     {
         src: './gifs/Shunting.gif',
-        tags: ['animals', 'pokemon'],
+        tags: ['animals', 'Pokemon'],
         alt: 'wheres the shiny'
     },
     {
