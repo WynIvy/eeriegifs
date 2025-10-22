@@ -1,0 +1,277 @@
+
+.bokor-regular {
+font-family: "Bokor", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+.alumni-sans-pinstripe-regular {
+    font-family: "Alumni Sans Pinstripe", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.alumni-sans-pinstripe-regular-italic {
+    font-family: "Alumni Sans Pinstripe", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+        
+        
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #000000;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #3f1010;
+    padding: 0;
+}
+
+.header {
+    width: 100%;
+    height: 35vh;
+    text-align: center;
+    position: relative;
+    color: #fff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    overflow: hidden;
+    border-bottom:5px solid #830707 ;
+}
+
+.header-words {
+    background-color: #000000b9;
+    width: 100%;
+    margin: 0px;
+    padding: 1000px 0px;
+}
+
+.header h1 {
+    color: #830707;
+    font-size: 5em;
+    font-weight: 700;
+    margin-bottom: 10px;
+    text-shadow: 0 1px 3px rgba(0,0,0,0.3);
+    font-family: "Bokor", sans-serif;
+}
+
+.header p {
+    color: #830707;
+    font-size: 0.95em;
+}
+
+.nav {
+    margin: 15px auto 30px;
+    text-align: center;
+    font-family: "Alumni Sans Pinstripe", sans-serif;
+}
+
+.nav a {
+    color: #830707;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 0.9em;
+    opacity: 0.8;
+    transition: opacity 0.2s;
+    font-size: 3em;
+}
+
+.nav a:hover {
+    opacity: 1;
+}
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        /* View toggle buttons */
+        .view-toggle {
+            position: absolute;
+            bottom: 10px;
+            right: 20px;
+            z-index: 10;
+        }
+
+        .view-toggle button {
+            background: #830707;
+            color: white;
+            border: none;
+            padding: 8px 16px;
+            margin: 0 5px;
+            cursor: pointer;
+            border-radius: 4px;
+            font-family: "Alumni Sans Pinstripe", sans-serif;
+            font-size: 1.5em;
+            transition: background-color 0.3s ease;
+        }
+
+        .view-toggle button:hover {
+            background: #a61010;
+        }
+
+        .view-toggle button.active {
+            background: #500404;
+        }
+
+        /* List view styles */
+        .main.list-view .post {
+            max-width: 540px;
+            margin: 0 auto 20px auto;
+            /* make background black so the page doesn't flash white while loading */
+            background: #000;
+            border-radius: 2px;
+            overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            /* ensure overlay absolutely positions relative to the post */
+            position: relative;
+        }
+
+        .main {
+            position: relative;
+            min-height: 200px;
+        }
+
+        /* Grid view styles */
+        .main.grid-view {
+            display: grid;
+            /* create responsive fixed-size columns and let grid center itself */
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            padding: 20px;
+            justify-content: center; /* center the grid when there are fewer columns */
+            max-width: 1480px;
+            margin: 0 auto;
+        }
+
+        .grid-view .post {
+            position: relative;
+            aspect-ratio: 1;
+            cursor: pointer;
+            border-radius: 8px;
+            overflow: hidden;
+                    background: #000;
+            transform: scale(1);
+            transition: transform 0.3s ease;
+        }
+
+        .grid-view .post-content {
+            height: 100%;
+        }
+
+        .grid-view .post-content img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.3s ease;
+        }
+
+        .grid-view .post:hover .post-content img {
+            transform: scale(1.1);
+        }
+
+        /* Image load fade-in */
+        .post-content {
+            background: #000; /* ensure image area fades over black */
+        }
+
+        .post-content img {
+            background: #000; /* fallback/background while loading */
+                    opacity: 0;
+                    transform: scale(0.95); /* slightly smaller so scale up is noticeable */
+                    transition: opacity 600ms ease, transform 600ms cubic-bezier(0.2, 0.8, 0.2, 1);
+                    /* hide completely (prevent flashing) until reveal starts */
+                    visibility: hidden;
+        }
+
+        .post-content img.loaded {
+                    opacity: 1;
+                    transform: scale(1);
+                    visibility: visible;
+        }
+
+        /* Overlay that covers each post until reveal completes */
+        .post::before {
+            content: '';
+            position: absolute;
+            inset: 0;
+            background: #000;
+            /* higher z-index to reliably cover images in all layouts */
+            z-index: 50;
+            transition: opacity 400ms ease, visibility 0s linear 400ms;
+            opacity: 1;
+            pointer-events: none;
+        }
+
+        /* When reveal class is present, fade overlay away */
+        .post.reveal::before {
+            opacity: 0;
+            visibility: hidden;
+        }
+
+        /* Slight animation for reveal to scale in */
+        .post.revealing .post-content img {
+            /* the loaded class handles opacity/transform; revealing adds a short delay before making visible */
+            visibility: visible;
+        }
+
+        /* Fullscreen view */
+        .fullscreen-view {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.9);
+            display: none;
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+            cursor: pointer;
+        }
+
+        .fullscreen-view.active {
+            display: flex;
+        }
+
+        .fullscreen-view img {
+            max-width: 90%;
+            max-height: 90vh;
+            object-fit: contain;
+        }
+
+        /* Regular post content */
+        .list-view .post-content {
+            padding: 0;
+            max-width: 100%;
+        }
+
+        .list-view .post-content img {
+            width: 100%;
+            height: auto;
+            display: block;
+            max-width: 540px;
+            margin: 0 auto;
+        }.pagination {
+    text-align: center;
+    padding: 30px 0;
+}
+
+.pagination a {
+    color: #fff;
+    text-decoration: none;
+    opacity: 0.7;
+    transition: opacity 0.2s;
+}
+
+.pagination a:hover {
+    opacity: 1;
+}
