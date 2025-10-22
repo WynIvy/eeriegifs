@@ -514,6 +514,11 @@ const gifDatabase = [
         tags: ['humans', 'funny'],
         alt: 'love ya gays'
     },
+        {
+        src: '.gifs/ButWhaleSex.gif',
+        tags: ['humans', 'funny'],
+        alt: 'but whale sex'
+    },
 ];
 
 let currentGifIndex = 0;
