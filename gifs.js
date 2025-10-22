@@ -10,422 +10,422 @@ const gifDatabase = [
         alt: 'Leo Pokemon GIF'
     },
     {
-        src: '/gifs/Ratss.gif',
+        src: './gifs/Ratss.gif',
         tags: ['animals', 'funny'],
         alt: 'Rats Pokemon GIF'
     },
     {
-        src: '/gifs/RUN.gif',
+        src: './gifs/RUN.gif',
         tags: ['animals', 'funny'],
         alt: 'Running GIF'
     },
     {
-        src: '/gifs/Vape.gif',
+        src: './gifs/Vape.gif',
         tags: ['funny', 'humans'],
         alt: 'Vape GIF'
     },
     {
-        src: '/gifs/Wink.gif',
+        src: './gifs/Wink.gif',
         tags: ['dark', 'humans'],
         alt: 'Winking GIF'
     },
     {
-        src: '/gifs/pokemon/1.gif',
+        src: './gifs/pokemon/1.gif',
         tags: ['pokemon', 'games'],
         alt: 'Eerie character with a weezing'
     },
     {
-        src: '/gifs/pokemon/2HAI.gif',
+        src: './gifs/pokemon/2HAI.gif',
         tags: ['pokemon', 'games'],
         alt: 'Two sudowoodos'
     },
     {
-        src: '/gifs/pokemon/1313.gif',
+        src: './gifs/pokemon/1313.gif',
         tags: ['pokemon', 'games', 'cartoons'],
         alt: 'Blassing for shinnies'
     },
     {
-        src: '/gifs/pokemon/3213.gif',
+        src: './gifs/pokemon/3213.gif',
         tags: ['pokemon', 'games'],
         alt: 'Meerie christmas'
     },
     {
-        src: '/gifs/pokemon/AlphaCatching.gif',
+        src: './gifs/pokemon/AlphaCatching.gif',
         tags: ['pokemon', 'cartoons'],
         alt: 'Pokemon breaks out of ball'
     },
     {
-        src: '/gifs/pokemon/AlphasPart2.gif',
+        src: './gifs/pokemon/AlphasPart2.gif',
         tags: ['pokemon', 'cartoons'],
         alt: 'Gengar wont get caught'
     },
     {
-        src: '/gifs/pokemon/AmorFati.gif',
+        src: './gifs/pokemon/AmorFati.gif',
         tags: ['pokemon', 'games'],
         alt: 'Luigi seed'
     },
     {
-        src: '/gifs/pokemon/ded.gif',
+        src: './gifs/pokemon/ded.gif',
         tags: ['cartoons', 'funny'],
         alt: 'Family guy freak out'
     },
     {
-        src: '/gifs/pokemon/EMF2.gif',
+        src: './gifs/pokemon/EMF2.gif',
         tags: ['cartoons', 'funny', 'pokemon', 'dark'],
         alt: 'ahhhh'
     },
     {
-        src: '/gifs/pokemon/fallingasleep.gif',
+        src: './gifs/pokemon/fallingasleep.gif',
         tags: ['cartoons', 'pokemon'],
         alt: 'ur falling asleep'
     },
     {
-        src: '/gifs/pokemon/bidoof.gif',
+        src: './gifs/pokemon/bidoof.gif',
         tags: ['cartoons', 'pokemon'],
         alt: 'bidoof'
     },
     {
-        src: '/gifs/pokemon/spinda.gif',
+        src: './gifs/pokemon/spinda.gif',
         tags: ['cartoons', 'pokemon'],
         alt: 'spinda with a flower'
     },
     {
-        src: '/gifs/pokemon/funnybidoof.gif',
+        src: './gifs/pokemon/funnybidoof.gif',
         tags: ['cartoons', 'funny', 'pokemon'],
         alt: 'scared bidoof'
     },
     {
-        src: '/gifs/pokemon/zor.gif',
+        src: './gifs/pokemon/zor.gif',
         tags: ['cartoons', 'pokemon'],
         alt: 'scared bidoof'
     },
     {
-        src: '/gifs/pokemon/tshark.gif',
+        src: './gifs/pokemon/tshark.gif',
         tags: ['cartoons', 'pokemon'],
         alt: 'lil guy'
     },
     {
-        src: '/gifs/pokemon/tbidoofs.gif',
+        src: './gifs/pokemon/tbidoofs.gif',
         tags: ['cartoons', 'pokemon'],
         alt: 'scared bidoof'
     },
     {
-        src: '/gifs/pokemon/gassy.gif',
+        src: './gifs/pokemon/gassy.gif',
         tags: ['cartoons', 'funny', 'pokemon'],
         alt: 'gassy gastrodon'
     },
     {
-        src: '/gifs/2wtf.gif',
+        src: './gifs/2wtf.gif',
         tags: ['funny', 'humans', 'dark'],
         alt: 'wtf'
     },
     {
-        src: '/gifs/3wtf.gif',
+        src: './gifs/3wtf.gif',
         tags: ['humans', 'funny', 'dark'],
         alt: 'wtf'
     },
     {
-        src: '/gifs/8H-02.gif',
+        src: './gifs/8H-02.gif',
         tags: ['animals'],
         alt: 'ants'
     },
     {
-        src: '/gifs/8H.gif',
+        src: './gifs/8H.gif',
         tags: ['animals'],
         alt: 'ant face'
     },
     {
-        src: '/gifs/AHHHH.gif',
+        src: './gifs/AHHHH.gif',
         tags: ['funny', 'animals'],
         alt: 'ahhhhh'
     },
     {
-        src: '/gifs/AnalWarts.gif',
+        src: './gifs/AnalWarts.gif',
         tags: ['funny', 'humans', 'dark'],
         alt: 'anal warts'
     },
     {
-        src: '/gifs/APM.gif',
+        src: './gifs/APM.gif',
         tags: ['games', 'humans'],
         alt: 'so fast'
     },
     {
-        src: '/gifs/APM2.gif',
+        src: './gifs/APM2.gif',
         tags: ['games', 'humans'],
         alt: 'so fast'
     },
     {
-        src: '/gifs/APM3.gif',
+        src: './gifs/APM3.gif',
         tags: ['games', 'humans'],
         alt: 'so fast'
     },
     {
-        src: '/gifs/AstroReading.gif',
+        src: './gifs/AstroReading.gif',
         tags: ['severance', 'humans', 'dark', 'funny'],
         alt: 'like that'
     },
     {
-        src: '/gifs/BeefMilk.gif',
+        src: './gifs/BeefMilk.gif',
         tags: ['funny', 'humans'],
         alt: 'beef milk'
     },
     {
-        src: '/gifs/BeNotAfraid.gif',
+        src: './gifs/BeNotAfraid.gif',
         tags: ['dark'],
         alt: 'an angel'
     },
     {
-        src: '/gifs/Bojack-horseman-worried.gif',
+        src: './gifs/Bojack-horseman-worried.gif',
         tags: ['dark', 'cartoons'],
         alt: 'sad bojack'
     },
     {
-        src: '/gifs/Boohoo.gif',
+        src: './gifs/Boohoo.gif',
         tags: ['funny', 'humans'],
         alt: 'ouch'
     },
     {
-        src: '/gifs/BrainRot.gif',
+        src: './gifs/BrainRot.gif',
         tags: ['dark', 'humans', 'severance'],
         alt: 'ew'
     },
     {
-        src: '/gifs/ButtholeSrufer.gif',
+        src: './gifs/ButtholeSrufer.gif',
         tags: ['funny', 'animals'],
         alt: 'oook'
     },
     {
-        src: '/gifs/CalebHammer.gif',
+        src: './gifs/CalebHammer.gif',
         tags: ['funny', 'humans'],
         alt: 'ahh'
     },
     {
-        src: '/gifs/CarOnFire.gif',
+        src: './gifs/CarOnFire.gif',
         tags: ['funny', 'humans'],
         alt: 'its on fireee'
     },
     {
-        src: '/gifs/Copium.gif',
+        src: './gifs/Copium.gif',
         tags: ['funny', 'humans', 'dark'],
         alt: 'cope'
     },
     {
-        src: '/gifs/Copium2.gif',
+        src: './gifs/Copium2.gif',
         tags: ['funny', 'humans', 'dark'],
         alt: 'cope'
     },
     {
-        src: '/gifs/Coward.gif',
+        src: './gifs/Coward.gif',
         tags: ['funny', 'humans'],
         alt: 'would a coward have this?'
     },
     {
-        src: '/gifs/ded01.gif',
+        src: './gifs/ded01.gif',
         tags: ['funny', 'animals'],
         alt: 'sphincturing'
     },
     {
-        src: '/gifs/ded22.gif',
+        src: './gifs/ded22.gif',
         tags: ['funny', 'humans', 'cartoons'],
         alt: 'twister yess'
     },
     {
-        src: '/gifs/Depression.gif',
+        src: './gifs/Depression.gif',
         tags: ['funny', 'cartoons', 'dark'],
         alt: 'ahahahaha'
     },
     {
-        src: '/gifs/devourfeculance.gif',
+        src: './gifs/devourfeculance.gif',
         tags: ['funny', 'humans', 'dark', 'severance'],
         alt: 'devour feculance'
     },
     {
-        src: '/gifs/dUNCE.gif',
+        src: './gifs/dUNCE.gif',
         tags: ['funny', 'humans'],
         alt: 'dunce'
     },
     {
-        src: '/gifs/Egg.gif',
+        src: './gifs/Egg.gif',
         tags: ['animals'],
         alt: 'egg'
     },
     {
-        src: '/gifs/EMF.gif',
+        src: './gifs/EMF.gif',
         tags: ['funny', 'humans', 'dark'],
         alt: 'ow'
     },
     {
-        src: '/gifs/Eruption.gif',
+        src: './gifs/Eruption.gif',
         tags: ['funny'],
         alt: 'eruption'
     },
     {
-        src: '/gifs/Facepalm.gif',
+        src: './gifs/Facepalm.gif',
         tags: ['funny', 'humans'],
         alt: 'ow'
     },
     {
-        src: '/gifs/fallout-vault-boy.gif',
+        src: './gifs/fallout-vault-boy.gif',
         tags: ['funny', 'cartoons', 'games'],
         alt: 'Fallout boy'
     },
     {
-        src: '/gifs/FuckTesla.gif',
+        src: './gifs/FuckTesla.gif',
         tags: ['funny', 'humans'],
         alt: 'ew a tesla'
     },
     {
-        src: '/gifs/GimmieDat.gif',
+        src: './gifs/GimmieDat.gif',
         tags: ['dark', 'animals'],
         alt: 'eating'
     },
     {
-        src: '/gifs/Goddamninternet.gif',
+        src: './gifs/Goddamninternet.gif',
         tags: ['funny', 'humans'],
         alt: 'goddamn internet'
     },
     {
-        src: '/gifs/GTFO.gif',
+        src: './gifs/GTFO.gif',
         tags: ['funny', 'animals'],
         alt: 'runnnn'
     },
     {
-        src: '/gifs/guns.gif',
+        src: './gifs/guns.gif',
         tags: ['dark', 'humans'],
         alt: 'guns'
     },
     {
-        src: '/gifs/HAI.gif',
+        src: './gifs/HAI.gif',
         tags: ['funny', 'humans', 'dark'],
         alt: 'ahhhh'
     },
     {
-        src: '/gifs/Heartbreak.gif',
+        src: './gifs/Heartbreak.gif',
         tags: ['dark', 'cartoons', 'pokemon'],
         alt: 'poor guy :('
     },
     {
-        src: '/gifs/Helppp.gif',
+        src: './gifs/Helppp.gif',
         tags: ['funny', 'humans', 'animals'],
         alt: 'helpppp'
     },
     {
-        src: '/gifs/intotheabyss.gif',
+        src: './gifs/intotheabyss.gif',
         tags: ['funny', 'humans'],
         alt: 'into the abyss'
     },
     {
-        src: '/gifs/IThou.gif',
+        src: './gifs/IThou.gif',
         tags: ['funny', 'animals'],
         alt: 'who dat'
     },
     {
-        src: '/gifs/Love.gif',
+        src: './gifs/Love.gif',
         tags: ['funny', 'humans'],
         alt: 'explain pants'
     },
     {
-        src: '/gifs/MarthaMary.gif',
+        src: './gifs/MarthaMary.gif',
         tags: ['funny', 'humans'],
         alt: 'martha and mary'
     },
     {
-        src: '/gifs/Mayonaise.gif',
+        src: './gifs/Mayonaise.gif',
         tags: ['funny', 'humans'],
         alt: 'mayonaise'
     },
     {
-        src: '/gifs/me-when-the-me.gif',
+        src: './gifs/me-when-the-me.gif',
         tags: ['funny', 'animals', 'dark'],
         alt: 'boiled'
     },
     {
-        src: '/gifs/MeatAndPotatoes.gif',
+        src: './gifs/MeatAndPotatoes.gif',
         tags: ['funny', 'humans'],
         alt: 'a good potato'
     },
     {
-        src: '/gifs/NDA.gif',
+        src: './gifs/NDA.gif',
         tags: ['funny', 'humans', 'dark'],
         alt: 'mandatory nda'
     },
     {
-        src: '/gifs/NoEmf.gif',
+        src: './gifs/NoEmf.gif',
         tags: ['funny', 'humans'],
         alt: 'no more emfs'
     },
     {
-        src: '/gifs/OhMaGod.gif',
+        src: './gifs/OhMaGod.gif',
         tags: ['funny', 'humans'],
         alt: 'omgg'
     },
     {
-        src: '/gifs/Ohno!!!.gif',
+        src: './gifs/Ohno!!!.gif',
         tags: ['funny', 'humans'],
         alt: 'oh nooo'
     },
     {
-        src: '/gifs/poe.gif',
+        src: './gifs/poe.gif',
         tags: ['games'],
         alt: 'POE'
     },
     {
-        src: '/gifs/poop.gif',
+        src: './gifs/poop.gif',
         tags: ['funny', 'humans'],
         alt: 'splash'
     },
     {
-        src: '/gifs/pulloutking.gif',
+        src: './gifs/pulloutking.gif',
         tags: ['funny', 'humans'],
         alt: 'pull out king'
     },
     {
-        src: '/gifs/QQ.gif',
+        src: './gifs/QQ.gif',
         tags: ['funny', 'humans'],
         alt: 'lol'
     },
     {
-        src: '/gifs/RACOONS.gif',
+        src: './gifs/RACOONS.gif',
         tags: ['animals', 'humans'],
         alt: 'raccoons'
     },
     {
-        src: '/gifs/RACOONS2.gif',
+        src: './gifs/RACOONS2.gif',
         tags: ['animals', 'humans'],
         alt: 'raccoons'
     },
     {
-        src: '/gifs/RACOONS3.gif',
+        src: './gifs/RACOONS3.gif',
         tags: ['animals', 'humans'],
         alt: 'raccoons'
     },
     {
-        src: '/gifs/RACOONS4.gif',
+        src: './gifs/RACOONS4.gif',
         tags: ['animals', 'cartoons'],
         alt: 'raccoons'
     },
     {
-        src: '/gifs/RACOONS5.gif',
+        src: './gifs/RACOONS5.gif',
         tags: ['animals', 'cartoons'],
         alt: 'raccoons'
     },
     {
-        src: '/gifs/Rafrafaraf.gif',
+        src: './gifs/Rafrafaraf.gif',
         tags: ['funny', 'humans'],
         alt: 'ahhhh'
     },
     {
-        src: '/gifs/SadnessCheck.gif',
+        src: './gifs/SadnessCheck.gif',
         tags: ['funny', 'humans'],
         alt: 'sad burrito'
     },
     {
-        src: '/gifs/Saturn.gif',
+        src: './gifs/Saturn.gif',
         tags: ['humans', 'funny', 'dark'],
         alt: 'saturned'
     },
     {
-        src: '/gifs/SaturnIngress.gif',
+        src: './gifs/SaturnIngress.gif',
         tags: ['animals', 'dark'],
         alt: 'ahhh a croc'
     },
@@ -435,77 +435,77 @@ const gifDatabase = [
         alt: 'raccoons'
     },
     {
-        src: '/gifs/Selfie.gif',
+        src: './gifs/Selfie.gif',
         tags: ['animals', 'humans'],
         alt: 'selfieee'
     },
     {
-        src: '/gifs/SharkCuddle.gif',
+        src: './gifs/SharkCuddle.gif',
         tags: ['animals', 'humans'],
         alt: 'good boy'
     },
     {
-        src: '/gifs/SheUgl.gif',
+        src: './gifs/SheUgl.gif',
         tags: ['humans', 'funny'],
         alt: 'she ugly'
     },
     {
-        src: '/gifs/Shunting.gif',
+        src: './gifs/Shunting.gif',
         tags: ['animals', 'pokemon'],
         alt: 'wheres the shiny'
     },
     {
-        src: '/gifs/SPAGHETTI.gif',
+        src: './gifs/SPAGHETTI.gif',
         tags: ['humans', 'funny'],
         alt: 'yumm'
     },
     {
-        src: '/gifs/STOPIT5G.gif',
+        src: './gifs/STOPIT5G.gif',
         tags: ['humans', 'dark', 'funny'],
         alt: 'crush'
     },
     {
-        src: '/gifs/SwansonVsEMF.gif',
+        src: './gifs/SwansonVsEMF.gif',
         tags: ['humans', 'funny'],
         alt: 'get outta here'
     },
     {
-        src: '/gifs/TheSuniscrazy.gif',
+        src: './gifs/TheSuniscrazy.gif',
         tags: ['humans', 'dark', 'funny'],
         alt: 'ahhh'
     },
     {
-        src: '/gifs/tolerance.gif',
+        src: './gifs/tolerance.gif',
         tags: ['humans', 'dark', 'funny'],
         alt: 'ahhh'
     },
     {
-        src: '/gifs/Try1.gif',
+        src: './gifs/Try1.gif',
         tags: ['humans', 'funny'],
         alt: 'ahhh'
     },
     {
-        src: '/gifs/tumblr_n9os5hate21ry46hlo1_500-1370067451.gif',
+        src: './gifs/tumblr_n9os5hate21ry46hlo1_500-1370067451.gif',
         tags: ['humans', 'funny'],
         alt: 'pullout king'
     },
     {
-        src: '/gifs/WHY.gif',
+        src: './gifs/WHY.gif',
         tags: ['humans', 'funny'],
         alt: 'WHY'
     },
     {
-        src: '/gifs/WHY1.gif',
+        src: './gifs/WHY1.gif',
         tags: ['humans', 'funny'],
         alt: 'WHY'
     },
     {
-        src: '/gifs/Wtf.gif',
+        src: './gifs/Wtf.gif',
         tags: ['humans', 'funny'],
         alt: 'wtf'
     },
     {
-        src: '/gifs/WTFWHY.gif',
+        src: './gifs/WTFWHY.gif',
         tags: ['humans', 'funny'],
         alt: 'WHY'
     },
