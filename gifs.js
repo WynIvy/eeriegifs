@@ -1,11 +1,11 @@
 const gifDatabase = [
     {
-        src: '/gifs/Eclipse.gif',
+        src: './gifs/Eclipse.gif',
         tags: ['astrology', 'dark'],
         alt: 'Eclipse GIF'
     },
     {
-        src: '/gifs/Leoin5ft6.gif',
+        src: './gifs/Leoin5ft6.gif',
         tags: ['astrology', 'funny'],
         alt: 'Leo Pokemon GIF'
     },
@@ -430,7 +430,7 @@ const gifDatabase = [
         alt: 'ahhh a croc'
     },
     {
-        src: 'gifs/Screenshot_2024-08-25_111411.jpg',
+        src: './gifs/Screenshot_2024-08-25_111411.jpg',
         tags: ['humans', 'funny', 'dark'],
         alt: 'raccoons'
     },
@@ -485,27 +485,27 @@ const gifDatabase = [
         alt: 'ahhh'
     },
     {
-        src: 'gifs/tumblr_n9os5hate21ry46hlo1_500-1370067451.gif',
+        src: '/gifs/tumblr_n9os5hate21ry46hlo1_500-1370067451.gif',
         tags: ['humans', 'funny'],
         alt: 'pullout king'
     },
     {
-        src: 'gifs/WHY.gif',
+        src: '/gifs/WHY.gif',
         tags: ['humans', 'funny'],
         alt: 'WHY'
     },
     {
-        src: 'gifs/WHY1.gif',
+        src: '/gifs/WHY1.gif',
         tags: ['humans', 'funny'],
         alt: 'WHY'
     },
     {
-        src: 'gifs/Wtf.gif',
+        src: '/gifs/Wtf.gif',
         tags: ['humans', 'funny'],
         alt: 'wtf'
     },
     {
-        src: 'gifs/WTFWHY.gif',
+        src: '/gifs/WTFWHY.gif',
         tags: ['humans', 'funny'],
         alt: 'WHY'
     },
@@ -561,7 +561,10 @@ function clearHeaderOrderStorage() {
 // Normalize paths so leading slash doesn't break local file loading (file://)
 function normalizePath(src) {
     if (!src) return src;
-    return src.startsWith('/') ? src.slice(1) : src;
+    // Remove leading slash if present
+    src = src.startsWith('/') ? src.slice(1) : src;
+    // Add ./ if not already present
+    return src.startsWith('./') ? src : './' + src;
 }
 
 function cycleHeaderBackground() {
