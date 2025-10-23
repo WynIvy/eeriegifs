@@ -69,6 +69,10 @@ body {
     font-size: 0.95em;
 }
 
+.header .screensaverr  {
+    height: 100%;
+}
+
 .nav {
     margin: 15px auto 30px;
     text-align: center;
@@ -98,7 +102,20 @@ body {
     transition: opacity 0.2s;
     font-style: bold;
 }
-
+.screensaver {
+    color: #000000;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1em;
+    background-color: #830707c8;
+    padding: .1em .3em;
+    border-radius: 4px;
+    font-family: "Bokor", sans-serif;
+    font-style: bold;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
 .nav a:hover {
     opacity: 1;
 }

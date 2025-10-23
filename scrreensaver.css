@@ -1,0 +1,87 @@
+
+.bokor-regular {
+font-family: "Bokor", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+.alumni-sans-pinstripe-regular {
+    font-family: "Alumni Sans Pinstripe", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.alumni-sans-pinstripe-regular-italic {
+    font-family: "Alumni Sans Pinstripe", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+        
+        
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #000000;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #3f1010;
+    padding: 0;
+}
+
+.header {
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    position: relative;
+    color: #fff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    overflow: hidden;
+    border:5px solid #830707 ;
+}
+
+.header-words {
+    background-color: #000000b9;
+    margin: 0px;
+    padding: 1000px 0px;
+    font-style: bold;
+}
+
+.header h1 {
+    color: #830707;
+    font-size: 8em;
+    font-weight: 700;
+    margin-bottom: 10px;
+    text-shadow: 0 1px 3px rgba(0,0,0,0.3);
+    font-family: "Bokor", sans-serif;
+    font-style: bold;
+    justify-content: center;
+    align-content: center;
+    justify-items: center;
+}
+
+.header p {
+    color: #830707;
+    font-size: 0.95em;
+}
+
+.buttonmain {
+    color: #000000;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1.5em;
+    background-color: #830707c8;
+    padding: .1em .3em;
+    border-radius: 4px;
+    font-family: "Bokor", sans-serif;
+    font-style: bold;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
