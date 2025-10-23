@@ -515,7 +515,7 @@ const gifDatabase = [
         alt: 'love ya gays'
     },
         {
-        src: '.gifs/ButWhaleSex.gif',
+        src: './gifs/ButWhaleSex.gif',
         tags: ['humans', 'funny'],
         alt: 'but whale sex'
     },
