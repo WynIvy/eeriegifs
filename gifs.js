@@ -519,6 +519,11 @@ const gifDatabase = [
         tags: ['humans', 'funny'],
         alt: 'but whale sex'
     },
+    {
+        src: './gifs/FrostButt.gif',
+        tags: ['humans', 'funny'],
+        alt: 'FrostButt'
+    },
 ];
 
 let currentGifIndex = 0;
