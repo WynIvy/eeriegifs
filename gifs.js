@@ -539,6 +539,11 @@ const gifDatabase = [
         tags: ['humans', 'funny'],
         alt: 'time to d!3'
     },
+        {
+        src: './gifs/AverageOrSmall.gif',
+        tags: ['humans', 'funny'],
+        alt: 'time to d!3'
+    },
 ];
 
 let currentGifIndex = 0;
