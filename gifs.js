@@ -525,9 +525,19 @@ const gifDatabase = [
         alt: 'FrostButt'
     },
     {
-        src: '.gifs/Hissss.gif',
+        src: './gifs/Hissss.gif',
         tags: ['humans', 'funny'],
-        alt: 'FrostButt'
+        alt: 'hissss'
+    },
+        {
+        src: './gifs/OhioSad.gif',
+        tags: ['humans', 'funny'],
+        alt: 'SAD'
+    },
+        {
+        src: './gifs/TimetoDie.gif',
+        tags: ['humans', 'funny'],
+        alt: 'time to d!3'
     },
 ];
 
