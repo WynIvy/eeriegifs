@@ -524,6 +524,11 @@ const gifDatabase = [
         tags: ['humans', 'funny'],
         alt: 'FrostButt'
     },
+    {
+        src: '.gifs/Hissss.gif',
+        tags: ['humans', 'funny'],
+        alt: 'FrostButt'
+    },
 ];
 
 let currentGifIndex = 0;
