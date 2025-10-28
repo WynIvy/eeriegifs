@@ -544,6 +544,11 @@ const gifDatabase = [
         tags: ['humans', 'funny'],
         alt: 'time to d!3'
     },
+        {
+        src: './gifs/Whatthefuck.gif',
+        tags: ['humans', 'funny'],
+        alt: 'wtF?!'
+    },
 ];
 
 let currentGifIndex = 0;
