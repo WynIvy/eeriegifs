@@ -549,6 +549,11 @@ const gifDatabase = [
         tags: ['humans', 'funny'],
         alt: 'wtF?!'
     },
+    {
+        src: '.gifs/HereIam.gif',
+        tags: ['animals', 'funny'],
+        alt: 'hereiam'
+    },
 ];
 
 let currentGifIndex = 0;
