@@ -550,10 +550,47 @@ const gifDatabase = [
         alt: 'wtF?!'
     },
     {
-        src: '.gifs/HereIam.gif',
+        src: './gifs/HereIam.gif',
         tags: ['animals', 'funny'],
         alt: 'hereiam'
     },
+    {
+        src: './gifs/Huh.gif',
+        tags: ['animals', 'funny'],
+        alt: 'kaw?'
+    },
+    {
+        src: './gifs/Byeeee.gif',
+        tags: ['humans', 'funny'],
+        alt: 'byeeeee'
+    },
+    {
+        src: './gifs/BallsBallsBalls.gif',
+        tags: ['humans', 'funny'],
+        alt: 'balls'
+    },
+    {
+        src: './gifs/GetWell.gif',
+        tags: ['humans', 'dark'],
+        alt: 'get well'
+    },
+    {
+        src: './gifs/IdontKnow.gif',
+        tags: ['humans', 'dark', 'funny'],
+        alt: 'baby boi'
+    },
+    {
+        src: './gifs/Spank.gif',
+        tags: ['humans', 'dark', 'funny'],
+        alt: 'spank'
+    },
+    {
+        src: './gifs/OnlyVapereons.gif',
+        tags: ['pokemon', 'dark', 'funny'],
+        alt: 'only vaporeons'
+    },
+    
+
 ];
 
 let currentGifIndex = 0;
