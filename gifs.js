@@ -586,8 +586,28 @@ const gifDatabase = [
     },
     {
         src: './gifs/OnlyVapereons.gif',
-        tags: ['pokemon', 'dark', 'funny'],
+        tags: ['pokemon', 'dark', 'funny', 'games'],
         alt: 'only vaporeons'
+    },
+    {
+        src: './gifs/LEROYYYY.gif',
+        tags: ['humans', 'funny'],
+        alt: 'leeeroy jenkins'
+    },
+    {
+        src: './gifs/LetMecook.gif',
+        tags: ['humans', 'funny'],
+        alt: 'let me cook'
+    },
+    {
+        src: './gifs/Clanker.gif',
+        tags: ['humans', 'funny'],
+        alt: 'clanker stuff'
+    },
+    {
+        src: './gifs/ThatsTheSpot.gif',
+        tags: ['animals', 'funny'],
+        alt: 'thats the spott'
     },
     
 
