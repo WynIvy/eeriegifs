@@ -634,6 +634,11 @@ const gifDatabase = [
         tags: ['humans', 'funny'],
         alt: 'oookay'
     },
+    {
+        src: './gifs/HeySweaty.gif',
+        tags: ['humans', 'funny'],
+        alt: 'sweaty'
+    },
     
 
 ];
