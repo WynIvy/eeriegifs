@@ -609,6 +609,31 @@ const gifDatabase = [
         tags: ['animals', 'funny'],
         alt: 'thats the spott'
     },
+    {
+        src: './gifs/Chips.gif',
+        tags: ['humans', 'funny'],
+        alt: 'chipss'
+    },
+    {
+        src: './gifs/MightEatSomeCheese.gif',
+        tags: ['humans', 'funny'],
+        alt: 'might eat some cheese'
+    },
+    {
+        src: './gifs/Neowww.gif',
+        tags: ['animals', 'funny'],
+        alt: 'neowwww'
+    },
+    {
+        src: './gifs/SprungValley.gif',
+        tags: ['humans', 'funny'],
+        alt: 'sprung'
+    },
+    {
+        src: './gifs/ItRubsThelotionOntheskin.gif',
+        tags: ['humans', 'funny'],
+        alt: 'oookay'
+    },
     
 
 ];
